@@ -18,6 +18,9 @@ Node.js : https://nodejs.org/en/download/
 2. run ```node index.js```
 2. Open your browser and go to http://localhost:1337/
 
+## Other Labs
+https://github.com/maxsock/AST_TP1  
+https://github.com/maxsock/AST_TP3
 
 ## Credits
 Maximilien Sock
